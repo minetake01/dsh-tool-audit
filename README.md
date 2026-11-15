@@ -90,3 +90,7 @@ The browser half is covered at registration scope (sidebar entry, audit panel, s
 - The routes are served by the Host web server, gated by a plugin header, and not authenticated by the Session RPC transport.
 
 See [docs/DETAIL.md](docs/DETAIL.md) for the full behavior.
+
+## License
+
+[MIT](LICENSE)

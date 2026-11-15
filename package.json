@@ -1,9 +1,9 @@
 {
   "name": "dsh-tool-audit",
   "version": "0.1.0",
-  "private": true,
   "type": "module",
   "description": "Observes tool calls, hashes the binaries they run, and records one audit line per call.",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/minetake01/dsh-tool-audit.git"
