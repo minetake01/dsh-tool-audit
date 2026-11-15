@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Tool audit">
+  <rect x="8" y="6" width="40" height="52" rx="8" fill="none" stroke="currentColor" stroke-width="4"/>
+  <path d="M18 22h20M18 32h20M18 42h12" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="50" cy="48" r="10" fill="none" stroke="currentColor" stroke-width="4"/>
+  <path d="M57 55l6 6" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Tool audit",
+    "description": "Observes tool calls, resolves and hashes the binaries they run, records one audit line per call, and proposes command rules for review.",
+    "detail": "docs/DETAIL.md"
+  }
+}
